@@ -3,11 +3,11 @@
   <title>似水流年</title>
   
   
-  <link href="/BlogStart/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://yaohua1179.github.io/BlogStart/"/>
+  <link href="https://www.baiy.wang/"/>
   <updated>2018-07-12T12:20:15.150Z</updated>
-  <id>https://yaohua1179.github.io/BlogStart/</id>
+  <id>https://www.baiy.wang/</id>
   
   <author>
     <name>似水流年</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>search</title>
-    <link href="https://yaohua1179.github.io/BlogStart/2018/07/12/search/"/>
-    <id>https://yaohua1179.github.io/BlogStart/2018/07/12/search/</id>
+    <link href="https://www.baiy.wang/2018/07/12/search/"/>
+    <id>https://www.baiy.wang/2018/07/12/search/</id>
     <published>2018-07-12T11:53:02.000Z</published>
     <updated>2018-07-12T12:20:15.150Z</updated>
     
@@ -35,7 +35,7 @@
     
     </summary>
     
-      <category term="电影评论" scheme="https://yaohua1179.github.io/BlogStart/categories/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA/"/>
+      <category term="电影评论" scheme="https://www.baiy.wang/categories/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA/"/>
     
     
   </entry>
