@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[search]]></title>
+    <url>%2F2018%2F07%2F12%2Fsearch%2F</url>
+    <content type="text"><![CDATA[fsaldkjfhasdlfkassadfkasjdfaslsadflasdfa]]></content>
+      <categories>
+        <category>电影评论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[杀死一只知更鸟观后感]]></title>
+    <url>%2F2018%2F07%2F12%2F%E6%9D%80%E6%AD%BB%E4%B8%80%E5%8F%AA%E7%9F%A5%E6%9B%B4%E9%B8%9F%E8%A7%82%E5%90%8E%E6%84%9F%2F</url>
+    <content type="text"><![CDATA[1alert(&apos;Hello World!&apos;); 1[rectangle setX: 10 y: 10 width: 20 height: 20];]]></content>
+      <categories>
+        <category>电影评论</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[test]]></title>
     <url>%2F2018%2F07%2F12%2Ftest%2F</url>
-    <content type="text"><![CDATA[这是斜体 或 这也是斜体这是粗体这是加粗斜体这是删除线]]></content>
+    <content type="text"><![CDATA[idsaljdfdkfkadfkdsflasd]]></content>
   </entry>
 </search>
