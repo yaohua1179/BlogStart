@@ -3,11 +3,11 @@
   <title>似水流年</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/BlogStart/atom.xml" rel="self"/>
   
-  <link href="http://www.baiy.wang/"/>
+  <link href="https://yaohua1179.github.io/BlogStart/"/>
   <updated>2018-07-12T12:20:15.150Z</updated>
-  <id>http://www.baiy.wang/</id>
+  <id>https://yaohua1179.github.io/BlogStart/</id>
   
   <author>
     <name>似水流年</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>search</title>
-    <link href="http://www.baiy.wang/2018/07/12/search/"/>
-    <id>http://www.baiy.wang/2018/07/12/search/</id>
+    <link href="https://yaohua1179.github.io/BlogStart/2018/07/12/search/"/>
+    <id>https://yaohua1179.github.io/BlogStart/2018/07/12/search/</id>
     <published>2018-07-12T11:53:02.000Z</published>
     <updated>2018-07-12T12:20:15.150Z</updated>
     
@@ -35,15 +35,15 @@
     
     </summary>
     
-      <category term="电影评论" scheme="http://www.baiy.wang/categories/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA/"/>
+      <category term="电影评论" scheme="https://yaohua1179.github.io/BlogStart/categories/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA/"/>
     
     
   </entry>
   
   <entry>
     <title>杀死一只知更鸟观后感</title>
-    <link href="http://www.baiy.wang/2018/07/12/%E6%9D%80%E6%AD%BB%E4%B8%80%E5%8F%AA%E7%9F%A5%E6%9B%B4%E9%B8%9F%E8%A7%82%E5%90%8E%E6%84%9F/"/>
-    <id>http://www.baiy.wang/2018/07/12/杀死一只知更鸟观后感/</id>
+    <link href="https://yaohua1179.github.io/BlogStart/2018/07/12/%E6%9D%80%E6%AD%BB%E4%B8%80%E5%8F%AA%E7%9F%A5%E6%9B%B4%E9%B8%9F%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <id>https://yaohua1179.github.io/BlogStart/2018/07/12/杀死一只知更鸟观后感/</id>
     <published>2018-07-12T11:18:26.000Z</published>
     <updated>2018-07-12T12:27:41.084Z</updated>
     
@@ -58,15 +58,15 @@
     
     </summary>
     
-      <category term="电影评论" scheme="http://www.baiy.wang/categories/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA/"/>
+      <category term="电影评论" scheme="https://yaohua1179.github.io/BlogStart/categories/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA/"/>
     
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="http://www.baiy.wang/2018/07/12/test/"/>
-    <id>http://www.baiy.wang/2018/07/12/test/</id>
+    <link href="https://yaohua1179.github.io/BlogStart/2018/07/12/test/"/>
+    <id>https://yaohua1179.github.io/BlogStart/2018/07/12/test/</id>
     <published>2018-07-12T03:27:44.000Z</published>
     <updated>2018-07-12T10:05:47.882Z</updated>
     
